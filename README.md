@@ -1,0 +1,2 @@
+# safenime.js
+safenime

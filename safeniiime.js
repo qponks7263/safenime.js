@@ -122,11 +122,8 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "https://safenimeindo.blogspot.com/2019/11/5-cara-agar-tubuh-tetap-sehat.html",
-      "https://safenimeindo.blogspot.com/2019/11/5-solusi-hidup-sehat.html",
-      "https://safenimeindo.blogspot.com/2019/11/5-tips-hidup-sehat.html",
-      "https://safenimeindo.blogspot.com/2019/11/5-cara-hidup-sehat.html",
-      "https://safenimeindo.blogspot.com/2019/11/5-cara-praktis-jalani-hidup-sehat.html",
+      "https://safeanonime.blogspot.com/2019/11/5-cara-praktis-jalani-hidup-sehat.html",
+    
     ];
     /* Jika ingin menambah postingan, copas saja */
 
